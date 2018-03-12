@@ -1,0 +1,22 @@
+TB1 - 0.4" pitch terminal block (Digikey 732-11097-ND)
+TB2 - 0.2" pitch terminal block (Digikey 609-3938-ND)
+(Choose one terminal block or the other, not both)
+SW1 - Illuminated push-on, push-off switch (Digikey CKN9038-ND)
+SW2, SW3 - DPDT push-on, push-off switch (Digikey EG5461-ND)
+IC1 - Op-amp (Digikey LT1638CN8#PBF-ND)
+PMIC1 - 5V buck regulator (Pololu D24V10F5)
+PMIC2 - 24V boost regulator (Digikey 102-3045-5-ND)
+L1 - 6.8uH inductor (Digikey 811-2023-ND)
+C1 - 33uF electrolytic capacitor (Digikey P838-ND)
+C2, C3 - 4.7uF ceramic capacitor (Digikey 445-173131-1-ND)
+C4 - 1nF 3000V ceramic capacitor (Digikey 1253PH-ND)
+C5 - 1uF ceramic capacitor (Digikey 490-8911-ND)
+R1 - 20K potentiometer, leads must be bent down (Digikey PDB181-K420K-203B-ND)
+R2 - 200R trim potentiometer (Digikey 987-1560-ND)
+R4 - 499R precision resistor (converts 0-20mA to 0-10V.  Use 249R for 0-5V, etc)
+R5, R10 - 1K8 resistor
+R6, R7, R8, R9 - 750R resistor
+R11 - 220K resistor
+LED1, LED4 - Red T-1 LED
+LED2, LED5 - Yellow T-1 LED
+LED3, LED6 - Green T-1 LED
